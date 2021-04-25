@@ -1,5 +1,3 @@
-// Problem: https://www.scaler.com/academy/mentee-dashboard/classroom/array-and-math-0eedd85d-7959-45c3-a09b-77ef76de3b6f/#assignment
-
 public class MaximumAbsoluteDifference {
 
 	public int maxArr(int[] A) {
