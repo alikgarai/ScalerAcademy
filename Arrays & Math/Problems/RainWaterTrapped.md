@@ -21,28 +21,16 @@ Return one integer, the answer to the question
 
 
 ### Example Input
-#### Input 1:
-
-A = [0, 1, 0, 2]
-#### Input 2:
-
-A = [1, 2]
+- Input 1: A = [0, 1, 0, 2]
+- Input 2: A = [1, 2]
 
 
 ### Example Output
-#### Output 1:
-
-1
-#### Output 2:
-
-0
+- Output 1: 1
+- Output 2: 0
 
 
 ### Example Explanation
-#### Explanation 1:
-
-1 unit is trapped on top of the 3rd element.
-#### Explanation 2:
-
-No water is trapped.
+- Explanation 1: 1 unit is trapped on top of the 3rd element.
+- Explanation 2: No water is trapped.
 
