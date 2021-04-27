@@ -1,4 +1,4 @@
-package ib.scaler.day07_Feb3;
+package ib.scaler.day29_Mar2;
 
 import java.util.Arrays;
 import java.util.Scanner;
